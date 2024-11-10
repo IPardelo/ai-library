@@ -1,0 +1,1818 @@
+[
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "Chatboy",
+      "descripcion": "Plataforma para crear chatbots y asistentes virtuales.",
+      "url": "https://chatboy.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "ChatGPT",
+      "descripcion": "Modelo de lenguaje conversacional de IA.",
+      "url": "https://chatgpt.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "Chatsonic",
+      "descripcion": "Modelo de lenguaje conversacional de IA con acceso a internet.",
+      "url": "https://writesonic.com/chatsonic"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "ChatSpot",
+      "descripcion": "Asistente de IA para ventas y marketing.",
+      "url": "https://chatspot.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "Claude",
+      "descripcion": "Modelo de lenguaje conversacional de Anthropic.",
+      "url": "https://claude.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "ElleAI",
+      "descripcion": "Asistente de escritura y creatividad basado en IA.",
+      "url": "https://elle.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "Google Gemini",
+      "descripcion": "Asistente multimodal de Google (sucesor de Bard). Gratis con cuenta Google y cuotas razonables.",
+      "url": "https://gemini.google.com/app"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "Hints AI",
+      "descripcion": "Asistente de escritura y creatividad basado en IA.",
+      "url": "https://hints.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "Le Chat (Mistral)",
+      "descripcion": "Chat con modelos Mistral en el navegador; plan gratuito con uso razonable.",
+      "url": "https://chat.mistral.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "Mayday",
+      "descripcion": "Asistente personal con IA para gestionar tu calendario y tareas.",
+      "url": "https://www.mayday.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "Microsoft Copilot",
+      "descripcion": "Chat y búsqueda con IA integrados en Microsoft. Uso gratuito con cuenta Microsoft y límites.",
+      "url": "https://copilot.microsoft.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "Monica (extensión)",
+      "descripcion": "Asistente de IA en el navegador (Chrome/Edge) para resumir, redactar y traducir. Freemium.",
+      "url": "https://monica.im"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "Notya AlanAl",
+      "descripcion": "Asistente personal con IA para organización y gestión de tareas.",
+      "url": "https://noty.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente productividad",
+      "titulo": "Perplexity",
+      "descripcion": "Búsqueda y respuestas con IA citando fuentes. Plan gratuito con límites diarios.",
+      "url": "https://www.perplexity.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "Pi (Inflection)",
+      "descripcion": "Asistente conversacional enfocado en tono empático. Uso web gratuito con límites.",
+      "url": "https://pi.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "Poe by Quora",
+      "descripcion": "Plataforma para interactuar con diferentes modelos de lenguaje de IA.",
+      "url": "https://poe.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "Quickchat",
+      "descripcion": "Plataforma para crear chatbots y asistentes virtuales.",
+      "url": "https://quickchat.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente productividad programacion",
+      "titulo": "V0.dev",
+      "descripcion": "Una herramienta de Vercel que genera diseños de interfaz de usuario y código (React, Tailwind CSS) a partir de descripciones en lenguaje natural o imágenes, funcionando como un asistente de IA para el desarrollo front-end y el diseño.",
+      "url": "https://www.v0.dev"
+    }
+  },
+  {
+    "web": {
+      "tipo": "asistente",
+      "titulo": "YouChat",
+      "descripcion": "Asistente conversacional de IA con acceso a internet.",
+      "url": "https://you.com/chat"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "Activepieces",
+      "descripcion": "Automatización tipo Zapier/Make con piezas de IA; código abierto y auto-hospedaje gratuito.",
+      "url": "https://www.activepieces.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "ConvertKit",
+      "descripcion": "Plataforma de marketing por correo electrónico para creadores.",
+      "url": "https://convertkit.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "Cresta AI",
+      "descripcion": "Automatización de la comunicación y el soporte al cliente.",
+      "url": "https://www.cresta.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion programacion",
+      "titulo": "Dify",
+      "descripcion": "Orquesta LLM, bases de conocimiento y flujos tipo chatbot. Open source; nube con plan gratuito.",
+      "url": "https://dify.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "Echowin",
+      "descripcion": "Automatización de marketing y ventas.",
+      "url": "https://echowin.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion programacion",
+      "titulo": "Flowise",
+      "descripcion": "Constructor visual de cadenas LLM (open source). Auto-hospedaje gratis o despliegue propio.",
+      "url": "https://flowiseai.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion productividad",
+      "titulo": "Harpa.ai",
+      "descripcion": "Extensión de Chrome y una plataforma NoCode RPA impulsada por IA que ahorra tiempo y dinero al automatizar tareas en la web para usted.",
+      "url": "https://harpa.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "Kommunicate",
+      "descripcion": "Plataforma de chat en vivo y chatbots para atención al cliente.",
+      "url": "https://www.kommunicate.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "Magic Form",
+      "descripcion": "Capacite a su propio vendedor de IA en menos de 3 minutos para generar confianza y aumentar las conversiones de su sitio en un 20 % a través de conversaciones en tiempo real.",
+      "url": "https://www.magicform.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "Make workflows",
+      "descripcion": "Crear workflows gratis no code",
+      "url": "https://eu2.make.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "n8n",
+      "descripcion": "Automatización tipo Zapier en self-host o nube; integraciones y nodos de IA. Community edition gratis.",
+      "url": "https://n8n.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion datos",
+      "titulo": "NocoDB",
+      "descripcion": "Base tipo Airtable open source sobre SQL; interfaz y automatizaciones. Self-host gratis.",
+      "url": "https://nocodb.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion redes",
+      "titulo": "Optimo",
+      "descripcion": "programa de marketing gratuito impulsado por IA que simplifica y acelera el proceso de marketing",
+      "url": "https://askoptimo.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "PolyAI",
+      "descripcion": "Creación de asistentes de voz impulsados por IA.",
+      "url": "https://poly.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "QuestAI",
+      "descripcion": "Herramienta de automatización y optimización de flujos de trabajo.",
+      "url": "https://quest.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "Quicklines Contact",
+      "descripcion": "Generación de líneas de apertura de correo electrónico personalizadas.",
+      "url": "https://quicklines.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "Regie.ai",
+      "descripcion": "Automatización de ventas y comunicaciones de marketing.",
+      "url": "https://regie.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "Sendinblue",
+      "descripcion": "Plataforma de marketing por correo electrónico y automatización de marketing.",
+      "url": "https://www.sendinblue.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "Sheethi app",
+      "descripcion": "Automatización de tareas repetitivas y creación de flujos de trabajo.",
+      "url": "https://sheethi.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "Smartwriter",
+      "descripcion": "Generación de correos electrónicos fríos y mensajes personalizados.",
+      "url": "https://www.smartwriter.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "Support Board",
+      "descripcion": "Plataforma de soporte al cliente con IA para automatizar interacciones.",
+      "url": "https://supportboard.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "Unspam email",
+      "descripcion": "Herramienta para la gestión y el envío de correos electrónicos.",
+      "url": "https://unspam.email"
+    }
+  },
+  {
+    "web": {
+      "tipo": "automatizacion",
+      "titulo": "Xembly 3",
+      "descripcion": "Automatización de tareas administrativas y de reuniones.",
+      "url": "https://xembly.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "buscador",
+      "titulo": "Futurepedia",
+      "descripcion": "Directorio de herramientas y recursos de IA.",
+      "url": "https://www.futurepedia.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "datos productividad",
+      "titulo": "Consensus",
+      "descripcion": "Respuestas basadas en literatura científica con citas. Freemium para investigadores.",
+      "url": "https://consensus.app"
+    }
+  },
+  {
+    "web": {
+      "tipo": "datos productividad",
+      "titulo": "Elicit",
+      "descripcion": "Busca y resume papers; extracción de datos tabulares con IA. Créditos gratuitos al registrarse.",
+      "url": "https://elicit.org"
+    }
+  },
+  {
+    "web": {
+      "tipo": "datos programacion",
+      "titulo": "Google AI Studio",
+      "descripcion": "Prueba y usa modelos Gemini, prompts y API desde el navegador. Uso gratuito con cuotas.",
+      "url": "https://aistudio.google.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "datos programacion",
+      "titulo": "Google Colab",
+      "descripcion": "Notebooks Python en la nube con GPU/TPU gratuitas por tiempo limitado. Ideal para ML y pruebas.",
+      "url": "https://colab.research.google.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "datos",
+      "titulo": "Kaggle",
+      "descripcion": "Competiciones, datasets y notebooks gratuitos con GPU en la nube para ciencia de datos.",
+      "url": "https://www.kaggle.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "datos",
+      "titulo": "LAION",
+      "descripcion": "Proporciona conjuntos de datos, herramientas y modelos para liberar la investigación del aprendizaje automático.",
+      "url": "https://laion.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "datos",
+      "titulo": "Nanonet",
+      "descripcion": "Automatiza la extracción de datos de documentos con IA.",
+      "url": "https://nanonet.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "datos programacion",
+      "titulo": "OpenRouter",
+      "descripcion": "Una sola API para acceder a muchos modelos (incluidos gratuitos o baratos). Registro gratuito.",
+      "url": "https://openrouter.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "datos programacion",
+      "titulo": "Together AI",
+      "descripcion": "Inferencia y fine-tuning en la nube con modelos abiertos; créditos gratuitos para probar.",
+      "url": "https://www.together.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "diseño",
+      "titulo": "Figma AI",
+      "descripcion": "Funcionalidades de IA para diseño de interfaces de usuario.",
+      "url": "https://www.figma.com/ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "divertido",
+      "titulo": "Booom.ai",
+      "descripcion": "Genere un divertido juego de trivia que pueda jugar en torno a un tema ingresado. Puedes jugar solo o con amigos.",
+      "url": "https://joinplayroom.com/games/booom"
+    }
+  },
+  {
+    "web": {
+      "tipo": "divertido imagen multimedia productividad",
+      "titulo": "Type face animator",
+      "descripcion": "Una fundición tipográfica especializada en el desarrollo de fuentes de visualización, que ofrece un catálogo de fuentes diseñadas por creadores independientes para diversos proyectos.",
+      "url": "https://typeverything.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen multimodal arquitectura",
+      "titulo": "3d hunyuan",
+      "descripcion": "Una herramienta de Tencent Hunyuan AI que permite generar modelos 3D a partir de indicaciones o descripciones, transformando conceptos en objetos tridimensionales.",
+      "url": "https://3d.hunyuan.tencent.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Adobe Express",
+      "descripcion": "Herramienta de diseño gráfico online con plantillas y funciones de IA.",
+      "url": "https://www.adobe.com/express"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Adobe Firefly",
+      "descripcion": "Generación de imagen y efectos con IA de Adobe; créditos gratuitos con cuenta Adobe.",
+      "url": "https://firefly.adobe.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Alethea",
+      "descripcion": "Permite la creación de NFT interactivos e inteligentes (iNFT).",
+      "url": "https://alethea.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Ando Studio",
+      "descripcion": "Plataforma de diseño gráfico y edición de imágenes con IA.",
+      "url": "https://andostudio.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen productividad",
+      "titulo": "AreaMockups",
+      "descripcion": "Ofrece mockups de alta calidad para presentar diseños de forma profesional.",
+      "url": "https://areamockups.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Artsmart.ai",
+      "descripcion": "Generación de imágenes de arte de IA hasta avatares de IA",
+      "url": "https://artsmart.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Bing Image",
+      "descripcion": "Generador de imágenes de Microsoft Bing.",
+      "url": "https://www.bing.com/images/create"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Blend AI",
+      "descripcion": "Creación de imágenes y diseños con IA.",
+      "url": "https://blend.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Blue Willow",
+      "descripcion": "Generador de imágenes artísticas a partir de texto con IA.",
+      "url": "https://www.bluewillow.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Caricaturer.io",
+      "descripcion": "convertir sus imágenes regulares en caricaturaS",
+      "url": "https://www.caricaturer.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Civitai",
+      "descripcion": "Comunidad y modelos para Stable Diffusion; descarga y galería. Gratis; contenido NSFW posible.",
+      "url": "https://civitai.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Clipdrop",
+      "descripcion": "Quitar fondo, ampliar imagen, reescalar con IA y más. Plan gratuito con límites diarios.",
+      "url": "https://clipdrop.co"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Colormind",
+      "descripcion": "Generador de paletas de colores basado en IA.",
+      "url": "https://colormind.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Craiyon",
+      "descripcion": "Generación de imágenes a partir de texto; versión gratuita con cola y marca de agua opcional.",
+      "url": "https://www.craiyon.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Creative Reality Studio",
+      "descripcion": "convertirá tu visión en un avatar parlante en cuestión de segundos.",
+      "url": "https://studio.d-id.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "DALL-E",
+      "descripcion": "Generación de imágenes a partir de texto con IA.",
+      "url": "https://openai.com/dall-e-2"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Designs.ai",
+      "descripcion": "Plataforma de diseño gráfico con IA para crear logotipos, vídeos y maquetas.",
+      "url": "https://designs.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen multimedia",
+      "titulo": "Dupe Photos",
+      "descripcion": "Una plataforma de imágenes y videos de stock libres de derechos, con un enfoque en contenido 'aesthetic' y socialmente identificable para la industria creativa.",
+      "url": "https://dupephotos.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen programacion",
+      "titulo": "fal.ai",
+      "descripcion": "API rápida para inferencia de modelos de imagen y vídeo; créditos de prueba gratuitos.",
+      "url": "https://fal.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Font Joy",
+      "descripcion": "Generador de combinaciones de fuentes con IA.",
+      "url": "https://fontjoy.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Freepik pikaso",
+      "descripcion": "Generador de imágenes con ia. (Marcar AI-promp)",
+      "url": "https://freepik.com/pikaso"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Hotpot AI",
+      "descripcion": "Herramientas de IA para edición de imágenes, arte y texto.",
+      "url": "https://hotpot.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Ideogram",
+      "descripcion": "Imágenes con buen renderizado de texto; plan gratuito con límites diarios.",
+      "url": "https://ideogram.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Imagetocartoon",
+      "descripcion": "creador de avatares que utiliza inteligencia artificial para convertir tus fotos en versiones de dibujos animados.",
+      "url": "https://imagetocartoon.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Kinetix",
+      "descripcion": "crear animaciones en 3D",
+      "url": "https://www.kinetix.tech"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Leonardo AI",
+      "descripcion": "Generación de imágenes a partir de texto con IA.",
+      "url": "https://leonardo.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Lexica",
+      "descripcion": "Buscador de prompts e imágenes para Stable Diffusion; generación con límites gratuitos.",
+      "url": "https://lexica.art"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Luma AI",
+      "descripcion": "Captura en 3D realista. Fotorrealismo, reflejos y detalles inigualables. ¡El futuro de VFX es ahora, para todos!",
+      "url": "https://lumalabs.ai/dream-machine"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "MakeLogo.ai",
+      "descripcion": "Creación de logotipos con IA.",
+      "url": "https://makelogo.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Meshy",
+      "descripcion": "Crear modelos 3D con lenguaje humano",
+      "url": "https://meshy.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Microsoft Designer",
+      "descripcion": "Herramienta de diseño gráfico con IA para crear imágenes y diseños.",
+      "url": "https://designer.microsoft.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Midjourney",
+      "descripcion": "Generación de imágenes artísticas a partir de texto con IA.",
+      "url": "https://www.midjourney.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Perchance",
+      "descripcion": "Generador de imágenes con ia.",
+      "url": "https://perchance.org/welcome"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Photopea",
+      "descripcion": "Editor de imágenes tipo Photoshop en el navegador; gratuito con anuncios opcionales.",
+      "url": "https://www.photopea.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Pixela AI",
+      "descripcion": "Texturas de Juegos Generadas por IA. ¡Sube tu textura generada para compartir con la comunidad!",
+      "url": "https://pixela.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Pixelate",
+      "descripcion": "Conversor de arte de imagen a píxelart",
+      "url": "https://www.scenario.com/features/pixelate"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Playground AI",
+      "descripcion": "Generación y edición de imágenes con varios modelos; capa gratuita con límites.",
+      "url": "https://playgroundai.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Recraft",
+      "descripcion": "Crea sets de iconos",
+      "url": "https://www.recraft.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Remove.bg",
+      "descripcion": "Eliminación de fondos de imágenes.",
+      "url": "https://www.remove.bg"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen programacion",
+      "titulo": "Replicate",
+      "descripcion": "API y playground para ejecutar modelos de la comunidad (imagen, vídeo, audio). Pago por uso; créditos iniciales.",
+      "url": "https://replicate.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen productividad",
+      "titulo": "Squoosh",
+      "descripcion": "Comprime y optimiza imágenes en el navegador (proyecto Google). Uso gratuito sin registro.",
+      "url": "https://squoosh.app"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Stable Diffusion",
+      "descripcion": "Modelo de inteligencia artificial que genera imágenes a partir de descripciones de texto.",
+      "url": "https://stablediffusionweb.com/es"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen productividad",
+      "titulo": "Stills",
+      "descripcion": "Una plataforma de licencia de fotografía con imágenes de alta calidad, seleccionadas de fotógrafos relevantes, orientada a diseñadores y creativos.",
+      "url": "https://www.stills.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Stockimg AI",
+      "descripcion": "Generación de imágenes de stock con IA.",
+      "url": "https://stockimg.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Tattoos AI",
+      "descripcion": "Diseña tu tatuaje con IA",
+      "url": "https://www.tattoosai.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Trypencil",
+      "descripcion": "Creación de ilustraciones y arte digital con IA.",
+      "url": "https://trypencil.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Unscreen",
+      "descripcion": "Elimina el fondo de cualquier vídeo o GIF automáticamente.",
+      "url": "https://www.unscreen.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Vana Portrait",
+      "descripcion": "crear autorretratos tuyos en infinitos estilos.",
+      "url": "https://portrait.vana.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Visualeyes",
+      "descripcion": "Análisis de la atención visual en diseños.",
+      "url": "https://visualeyes.design"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimedia",
+      "titulo": "Adobe Enhance",
+      "descripcion": "Mejora la calidad de audio y vídeo con inteligencia artificial.",
+      "url": "https://podcast.adobe.com/enhance"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimedia",
+      "titulo": "Animoto",
+      "descripcion": "Creador de vídeos online para fotos y videoclips.",
+      "url": "https://animoto.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimedia textovideo",
+      "titulo": "CapCut",
+      "descripcion": "Editor de vídeo con plantillas y funciones de IA (subtítulos, efectos). App y web; muchas funciones gratis.",
+      "url": "https://www.capcut.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimedia buscador",
+      "titulo": "Fathom.fm",
+      "descripcion": "Recomendaciones, busque dentro de podcasts, lea transcripciones, navegue por episodios usando capítulos y mucho más. ¡Es una forma completamente nueva de experimentar los podcasts!",
+      "url": "https://hello.fathom.fm"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimedia",
+      "titulo": "Filmora",
+      "descripcion": "Software de edición de vídeo para crear contenido de forma sencilla.",
+      "url": "https://filmora.wondershare.es"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimedia",
+      "titulo": "FlexClip",
+      "descripcion": "Editor de vídeo online para crear vídeos de forma sencilla.",
+      "url": "https://www.flexclip.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimedia",
+      "titulo": "GetMunch",
+      "descripcion": "Herramienta para crear clips de vídeo cortos y atractivos.",
+      "url": "https://www.getmunch.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimedia",
+      "titulo": "Jitter video",
+      "descripcion": "Crea animaciones",
+      "url": "https://jitter.video"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimedia",
+      "titulo": "Magisto",
+      "descripcion": "Editor de vídeo inteligente que crea vídeos profesionales en minutos.",
+      "url": "https://www.magisto.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimedia",
+      "titulo": "Opus Clips",
+      "descripcion": "Creación de clips de vídeo a partir de contenido largo.",
+      "url": "https://www.opus.pro"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimedia",
+      "titulo": "Songr.ai",
+      "descripcion": "Hacer canciones",
+      "url": "https://www.songr.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimedia",
+      "titulo": "SplashMusic",
+      "descripcion": "Crear musica",
+      "url": "https://www.splashmusic.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimedia",
+      "titulo": "Suno",
+      "descripcion": "Hacer canciones",
+      "url": "https://suno.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimodal",
+      "titulo": "Adobe Sensei",
+      "descripcion": "Plataforma de IA y aprendizaje automático para productos de Adobe.",
+      "url": "https://www.adobe.com/sensei.html"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimodal",
+      "titulo": "Descript",
+      "descripcion": "Edita audio y vídeo transcribiendo el contenido, como si fuera un documento de texto.",
+      "url": "https://www.descript.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimodal",
+      "titulo": "Endless",
+      "descripcion": "Convertir imagenes, texto, videos etc.",
+      "url": "https://endless.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimodal programacion",
+      "titulo": "Hugging face",
+      "descripcion": "Plataforma para modelos de lenguaje y herramientas de IA de código abierto.",
+      "url": "https://huggingface.co"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimodal",
+      "titulo": "Lecture",
+      "descripcion": "Transform your PDFs, PowerPoints, YouTube videos, lectures, textbook, and class notes into trusted study tools.",
+      "url": "https://lecture.new"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimodal productividad",
+      "titulo": "NotebookLM",
+      "descripcion": "Sube fuentes (PDF, web, Drive) y genera resúmenes, preguntas y audio tipo podcast. Gratis con cuenta Google.",
+      "url": "https://notebooklm.google.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "multimodal",
+      "titulo": "TinyWow",
+      "descripcion": "Herramientas de utilidad impulsadas por IA para hacer su vida más fácil. Las herramientas más comunes incluyen PDF, video, imagen, escritura AI y herramientas de conversión.",
+      "url": "https://tinywow.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Anyword",
+      "descripcion": "Generación de textos de marketing y publicidad con IA.",
+      "url": "https://anyword.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Beautiful.ai",
+      "descripcion": "Creación de presentaciones impactantes con diseño asistido por IA.",
+      "url": "https://www.beautiful.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Chat gpt writer",
+      "descripcion": "Extensión gratuita de Chrome que utiliza ChatGPT para resumir artículos en la web.",
+      "url": "https://chatgptwriter.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "CoCram",
+      "descripcion": "Plataforma de estudio y aprendizaje colaborativo.",
+      "url": "https://cocram.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Content Forge",
+      "descripcion": "Generación de contenido con IA para marketing y ventas.",
+      "url": "https://contentforge.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "CopyAI",
+      "descripcion": "Generación de textos de marketing y ventas con IA.",
+      "url": "https://www.copy.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad redes imagen",
+      "titulo": "Cowriter",
+      "descripcion": "Generar publicaciones creativas en blogs, ensayos, titulares, imágenes o cualquier otro contenido en minutos, todo optimizado especialmente para el marketing y el uso creativo.",
+      "url": "https://cowriter.org/login"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Dib",
+      "descripcion": "Herramienta de escritura asistida por IA para generar ideas y contenido.",
+      "url": "https://dib.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Doctrina AI",
+      "descripcion": "diseñado para ayudar a los estudiantes y niños a estudiar mejor y adaptarse a los nuevos desafíos del aprendizaje remoto y en línea.",
+      "url": "https://www.doctrina.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad redes",
+      "titulo": "ECommerce Prompt Gen.",
+      "descripcion": "Recetas listas para usar de ChatGPT creadas por ingenieros rápidos para ayudarlo a configurar su tienda y campañas de marketing rápidamente",
+      "url": "https://www.ecommerceprompts.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Ferret",
+      "descripcion": "Herramienta de investigación y análisis de personas y empresas.",
+      "url": "https://ferret.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad datos",
+      "titulo": "Fibery AI",
+      "descripcion": "Plataforma de gestión de proyectos y colaboración con capacidades de IA.",
+      "url": "https://fibery.io/ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Finding Words",
+      "descripcion": "Creador de obituarios de IA por Empathy. Crear un tributo significativo a su ser querido puede ser una tarea difícil y emotiva. Con Finding Words de Empathy, simplemente puede responder una serie de preguntas y nuestra IA redactará un obituario en su honor.",
+      "url": "https://www.empathy.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad voztexto",
+      "titulo": "Fireflies AI",
+      "descripcion": "Asistente de reuniones con IA que transcribe, resume y analiza conversaciones.",
+      "url": "https://fireflies.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Flick AI",
+      "descripcion": "Generación de contenido para redes sociales.",
+      "url": "https://www.flick.tech"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Gamma",
+      "descripcion": "Presentaciones y documentos generados con IA a partir de un prompt. Plan gratuito limitado.",
+      "url": "https://gamma.app"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad datos",
+      "titulo": "GitMind AI",
+      "descripcion": "Herramienta de mapas mentales y brainstorming con funciones de IA.",
+      "url": "https://gitmind.com/ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "GPT Sheets",
+      "descripcion": "Similar a ChatGPT, pero en Google Sheets. Obtén ayuda con la inspiración, categorización, traducción, corrección, resumen con la función GPT.",
+      "url": "https://workspace.google.com/marketplace/app/gpt_for_sheets/677318054654"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "GPTionary",
+      "descripcion": "Diccionario de sinónimos",
+      "url": "https://gptionary.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "GPTZero",
+      "descripcion": "Detector de contenido de IA que puede clasificar textos humanos y generados por IA junto con contenido mixto. La herramienta ha aparecido en CNBC, CNN y más.",
+      "url": "https://gptzero.me"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Grammar GPT",
+      "descripcion": "Una inteligencia artificial puede corregir los errores gramaticales de un texto de manera gratuita.",
+      "url": "https://www.grammar-gpt.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Grammarly",
+      "descripcion": "Asistente de escritura para corrección gramatical y de estilo.",
+      "url": "https://www.grammarly.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Hypotenuse AI",
+      "descripcion": "Generación de contenido de alta calidad con IA.",
+      "url": "https://www.hypotenuse.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Ink",
+      "descripcion": "Editor de contenido con IA para optimización SEO y escritura.",
+      "url": "https://inkforall.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Jasper",
+      "descripcion": "Asistente de escritura con IA para generar contenido creativo.",
+      "url": "https://www.jasper.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad redes imagen",
+      "titulo": "Jounce AI",
+      "descripcion": "Redacción de textos publicitarios y el material gráfico",
+      "url": "https://www.jounce.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "MagicalAI",
+      "descripcion": "Automatización de texto y atajos para mejorar la productividad.",
+      "url": "https://www.getmagical.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "NameWizard AI",
+      "descripcion": "Permite crear un nombre generado por IA para su idea/proyecto/inicio.",
+      "url": "https://namewizard.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Naming Magic",
+      "descripcion": "Deje que GPT-3 haga una lluvia de ideas sobre los nombres de su empresa o producto y encuentre los nombres de dominio disponibles.",
+      "url": "https://www.namingmagic.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Namy AI",
+      "descripcion": "herramienta simple para generar algunas ideas de nombres de dominio para su negocio o marca.",
+      "url": "https://namy.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Neurospell",
+      "descripcion": "Autocorrector ortográfico y gramatical basado en Deep Learning. Disponible en más de 30 idiomas.",
+      "url": "https://neurospell.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad voztexto",
+      "titulo": "Otter.ai",
+      "descripcion": "Transcripción de reuniones y notas en tiempo real. Plan gratuito con minutos limitados al mes.",
+      "url": "https://otter.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad buscador",
+      "titulo": "PaperBrain",
+      "descripcion": "Una plataforma para que pueda acceder y comprender los trabajos de investigación. Con resúmenes en papel y enlaces directos en pdf, nunca más tendrá que luchar con descargas tediosas.",
+      "url": "https://www.paperbrain.org"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Predict AI",
+      "descripcion": "Análisis predictivo para decisiones empresariales.",
+      "url": "https://predict.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Prowritingaid",
+      "descripcion": "Asistente de escritura para mejorar gramática, estilo y legibilidad.",
+      "url": "https://prowritingaid.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Qatalog",
+      "descripcion": "Plataforma de gestión del conocimiento y colaboración.",
+      "url": "https://qatalog.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "QuillBot",
+      "descripcion": "Herramienta de parafraseo y resumen de texto.",
+      "url": "https://quillbot.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Rationale",
+      "descripcion": "Herramienta para el pensamiento crítico y la toma de decisiones.",
+      "url": "https://rationale.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Reclaim",
+      "descripcion": "Optimización de calendarios y gestión del tiempo.",
+      "url": "https://reclaim.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad datos",
+      "titulo": "Rewind",
+      "descripcion": "Graba y busca todo lo que has visto, dicho o escuchado en tu ordenador.",
+      "url": "https://www.rewind.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Robin",
+      "descripcion": "Plataforma de gestión de reuniones y calendarios.",
+      "url": "https://robinpowered.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Rytr",
+      "descripcion": "Asistente de escritura con IA para generar contenido.",
+      "url": "https://rytr.me"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Scale",
+      "descripcion": "Plataforma para el etiquetado de datos y anotación para IA.",
+      "url": "https://scale.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Simplified",
+      "descripcion": "Plataforma todo en uno para diseño, escritura y marketing.",
+      "url": "https://simplified.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Smart Copy",
+      "descripcion": "Generación de textos publicitarios y de marketing con IA.",
+      "url": "https://unbounce.com/smart-copy"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Summar AIze",
+      "descripcion": "Herramienta de resumen de texto con IA.",
+      "url": "https://summarize.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Taskade",
+      "descripcion": "Espacio de trabajo todo en uno para equipos que combina notas, tareas y chat.",
+      "url": "https://www.taskade.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Teach Anything",
+      "descripcion": "Encuentra rápidamente respuestas a preguntas sobre cualquier tema. Tienes que escribir tus preguntas, elegir un idioma y el nivel de dificultad. Después de eso, obtendrás la respuesta.",
+      "url": "https://www.teach-anything.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Text Metrics",
+      "descripcion": "Análisis y mejora de la calidad del texto.",
+      "url": "https://textmetrics.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Tome app",
+      "descripcion": "Creación de presentaciones interactivas y visuales.",
+      "url": "https://tome.app"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Transvribe",
+      "descripcion": "Diseñado para hacer que el aprendizaje en YouTube sea 10 veces más productivo.",
+      "url": "https://www.transvribe.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Tutor AI",
+      "descripcion": "Plataforma de aprendizaje impulsada por IA. Puedes ingresar cualquier tema y te proporcionará varias opciones que puedes usar para aprender sobre ese tema.",
+      "url": "https://tutorai.me"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "VenturusAI",
+      "descripcion": "herramienta para evaluar ideas de negocios y le brinda retroalimentación y análisis integral sobre cómo hacerlo exitoso",
+      "url": "https://venturusai.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad buscador",
+      "titulo": "What The AI",
+      "descripcion": "Directorio y buscador de herramientas de inteligencia artificial.",
+      "url": "https://whattheai.xyz"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Wisdolia",
+      "descripcion": "Una extensión de Chrome que usa IA para generar tarjetas didácticas (con preguntas y respuestas) para cualquier artículo/PDF para que puedas arraigar mejor lo que lees.",
+      "url": "https://jungleai.com/es"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "WordAI",
+      "descripcion": "Herramienta de reescritura y parafraseo de texto.",
+      "url": "https://wordai.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Wordtune",
+      "descripcion": "Herramienta de reescritura y mejora de textos.",
+      "url": "https://www.wordtune.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Writecream",
+      "descripcion": "Generación de contenido de marketing y ventas con IA.",
+      "url": "https://www.writecream.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "productividad",
+      "titulo": "Writesonic",
+      "descripcion": "Generación de textos de marketing, blogs y descripciones de productos con IA.",
+      "url": "https://writesonic.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion datos",
+      "titulo": "AI Data Sidekick",
+      "descripcion": "Escribe SQL, documentación y más x10 veces más rápido con nuestra colección de potentes recetas. Gratis para individuos y pequeños equipos.",
+      "url": "https://www.airops.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "AI Intern",
+      "descripcion": "Asistente de codificación y desarrollo impulsado por IA.",
+      "url": "https://aiintern.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Blackbox",
+      "descripcion": "Chat y autocompletado de código con IA; integración con IDEs y web. Plan gratuito limitado.",
+      "url": "https://www.blackbox.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Bolt.new",
+      "descripcion": "Genera aplicaciones web completas en el navegador con IA (stack típico JS). Uso gratuito con límites.",
+      "url": "https://bolt.new"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Continue",
+      "descripcion": "Extensión open source de VS Code para autocompletado y chat con modelos locales o API.",
+      "url": "https://www.continue.dev"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Cursor",
+      "descripcion": "Editor de código (fork de VS Code) con autocompletado y chat de IA integrados. Freemium.",
+      "url": "https://cursor.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Get Lazy",
+      "descripcion": "Crear programas web con lenguaje humano",
+      "url": "https://getlazy.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Gradio",
+      "descripcion": "Crea demos web de modelos ML en Python en minutos. Open source y gratuito.",
+      "url": "https://www.gradio.app"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "LM Studio",
+      "descripcion": "Descarga y ejecuta modelos de lenguaje en local con interfaz gráfica. Gratis.",
+      "url": "https://lmstudio.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Lovable",
+      "descripcion": "Crea apps y sitios con lenguaje natural; código y despliegue asistidos por IA. Plan gratuito limitado.",
+      "url": "https://lovable.dev"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Mixo",
+      "descripcion": "Da unha idea e crea a web, logo etc.",
+      "url": "https://mixo.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Neumorphism",
+      "descripcion": "Biblioteca y personalizador de diseños para web",
+      "url": "https://neumorphism.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Ollama",
+      "descripcion": "Ejecuta LLMs open source en tu máquina desde terminal o API local. Software gratuito.",
+      "url": "https://ollama.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion datos",
+      "titulo": "OSS Insight",
+      "descripcion": "herramienta de consulta impulsada por GPT para la exploración de datos en vivo de GitHub. Simplemente haga su pregunta en lenguaje natural y Data Explore generará SQL, consultará los datos y presentará los resultados visualmente.",
+      "url": "https://ossinsight.io/explore"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Project IDX",
+      "descripcion": "Entorno de desarrollo en la nube de Google (VS Code en el navegador) con IA integrada. Preview gratuito.",
+      "url": "https://idx.google.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Python tutor",
+      "descripcion": "Ver comportamiento de código línea a línea",
+      "url": "https://pythontutor.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion productividad",
+      "titulo": "RandomA11y",
+      "descripcion": "Una herramienta que genera combinaciones de colores aleatorias y accesibles para diseño web, garantizando el cumplimiento de los estándares de contraste WCAG.",
+      "url": "https://randoma11y.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Streamlit",
+      "descripcion": "Apps de datos y ML en Python puro; despliegue gratuito en la nube Streamlit Community Cloud.",
+      "url": "https://streamlit.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Tabnine",
+      "descripcion": "Autocompletado de código con IA; plan gratuito limitado y modelos locales opcionales.",
+      "url": "https://www.tabnine.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "UINiverse",
+      "descripcion": "Biblioteca de diseños para webs",
+      "url": "https://uiverse.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "redes",
+      "titulo": "ProductBot",
+      "descripcion": "Recomendador y experto en productos de IA que ayuda a los usuarios a tomar decisiones de compra. Los usuarios pueden especificar sus necesidades y la herramienta sugerirá productos relacionados.",
+      "url": "https://www.getproduct.help"
+    }
+  },
+  {
+    "web": {
+      "tipo": "seo",
+      "titulo": "CaniRank",
+      "descripcion": "Análisis SEO y optimización de contenido.",
+      "url": "https://www.canirank.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "seo",
+      "titulo": "Keyword Tool",
+      "descripcion": "Herramienta para la investigación de palabras clave.",
+      "url": "https://keywordtool.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "seo",
+      "titulo": "Scalenut",
+      "descripcion": "Plataforma de contenido con IA para investigación y creación SEO.",
+      "url": "https://www.scalenut.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "seo",
+      "titulo": "Surfer SEO",
+      "descripcion": "Optimización de contenido para motores de búsqueda.",
+      "url": "https://surferseo.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "textovideo",
+      "titulo": "DeepBrain AI",
+      "descripcion": "Generación de vídeos con avatares de IA realistas.",
+      "url": "https://www.deepbrain.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "textovideo",
+      "titulo": "Genmo AI",
+      "descripcion": "Genmo ofrece generación de videos fantásticos con IA. También puedes ver videos generados por la comunidad.",
+      "url": "https://www.genmo.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "textovideo",
+      "titulo": "Invideo",
+      "descripcion": "Creación de vídeos online con plantillas y herramientas de edición.",
+      "url": "https://invideo.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "textovideo",
+      "titulo": "Pictory",
+      "descripcion": "Creación de vídeos a partir de texto o imágenes.",
+      "url": "https://pictory.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "textovideo",
+      "titulo": "Runway ML",
+      "descripcion": "Plataforma de edición de vídeo impulsada por IA con funciones avanzadas.",
+      "url": "https://runwayml.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "textovideo",
+      "titulo": "Synthesia",
+      "descripcion": "Generación de vídeos a partir de texto con avatares de IA.",
+      "url": "https://www.synthesia.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "textovideo",
+      "titulo": "Veedio",
+      "descripcion": "Herramienta de edición de vídeo para crear contenido de forma rápida y sencilla.",
+      "url": "https://www.veed.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "textovideo multimedia",
+      "titulo": "Vidext",
+      "descripcion": "estudio de producción totalmente en línea que transforma textos y documentos en videos atractivos en todos los idiomas",
+      "url": "https://www.vidext.io/es"
+    }
+  },
+  {
+    "web": {
+      "tipo": "textovoz buscador",
+      "titulo": "Ask my book",
+      "descripcion": "Experimento de IA creado por Sahil Lavingia, para hacer que su libro sea más accesible. Puedes usar Ask My Book para hacer una pregunta y obtener una respuesta en su voz.",
+      "url": "https://askmybook.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "textovoz",
+      "titulo": "Audioread",
+      "descripcion": "Convierte artículos web, PDFs y otros documentos en audio.",
+      "url": "https://audioread.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "textovoz",
+      "titulo": "ElevenLabs",
+      "descripcion": "Síntesis de voz muy natural; plan gratuito con créditos mensuales limitados.",
+      "url": "https://elevenlabs.io"
+    }
+  },
+  {
+    "web": {
+      "tipo": "textovoz",
+      "titulo": "TTS Maker",
+      "descripcion": "Texto a voz",
+      "url": "https://ttsmaker.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "textovoz",
+      "titulo": "Uberduck",
+      "descripcion": "Texto a voz",
+      "url": "https://www.uberduck.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "textovoz",
+      "titulo": "Vowt",
+      "descripcion": "Sintetizador de voz basado en IA para generar narraciones.",
+      "url": "https://vowt.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "traduccion",
+      "titulo": "DeepL",
+      "descripcion": "Servicio de traducción automática de alta calidad.",
+      "url": "https://www.deepl.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "voztexto multimedia",
+      "titulo": "Adobe Podcast",
+      "descripcion": "Grabación y edición de audio impulsado por IA, todo en la web.",
+      "url": "https://podcast.adobe.com"
+    }
+  },
+  {
+    "web": {
+      "tipo": "voztexto",
+      "titulo": "Krisp",
+      "descripcion": "Elimina el ruido de fondo durante llamadas y reuniones.",
+      "url": "https://krisp.ai"
+    }
+  },
+  {
+    "web": {
+      "tipo": "voztexto",
+      "titulo": "Steno",
+      "descripcion": "Tus podcasts favoritos transcritos en su totalidad. Descubre, consulta y lee mientras los escuchas.",
+      "url": "https://www.steno.ai"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "categoria": {
+      "id": "redes",
+      "nombre": "Redes Sociales, Marketing, SEO"
+    }
+  },
+  {
+    "categoria": {
+      "id": "imagen",
+      "nombre": "Fotos y arte"
+    }
+  },
+  {
+    "categoria": {
+      "id": "textovoz",
+      "nombre": "Texto a voz"
+    }
+  },
+  {
+    "categoria": {
+      "id": "voztexto",
+      "nombre": "Voz a texto"
+    }
+  },
+  {
+    "categoria": {
+      "id": "textovideo",
+      "nombre": "Texto a video"
+    }
+  },
+  {
+    "categoria": {
+      "id": "multimedia",
+      "nombre": "Multimedia"
+    }
+  },
+  {
+    "categoria": {
+      "id": "asistente",
+      "nombre": "Asistente"
+    }
+  },
+  {
+    "categoria": {
+      "id": "automatizacion",
+      "nombre": "Automatización"
+    }
+  },
+  {
+    "categoria": {
+      "id": "programacion",
+      "nombre": "Programación"
+    }
+  },
+  {
+    "categoria": {
+      "id": "divertido",
+      "nombre": "Divertido"
+    }
+  },
+  {
+    "categoria": {
+      "id": "arquitectura",
+      "nombre": "Inmobiliaria/Arquitectura"
+    }
+  },
+  {
+    "categoria": {
+      "id": "productividad",
+      "nombre": "Productividad"
+    }
+  },
+  {
+    "categoria": {
+      "id": "datos",
+      "nombre": "Análisis de Datos"
+    }
+  },
+  {
+    "categoria": {
+      "id": "multimodal",
+      "nombre": "Multimodal"
+    }
+  }
+]
