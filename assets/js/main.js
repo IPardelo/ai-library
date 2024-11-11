@@ -350,10 +350,13 @@
     }
 
     async function init() {
+        const websSrc = (document.body && document.body.dataset.websSrc) || 'assets/data/webs.json';
+        const categoriasSrc = (document.body && document.body.dataset.categoriasSrc) || 'assets/data/categorias.json';
+
         try {
             const [rawWebs, rawFiltros] = await Promise.all([
-                cargarJson('assets/data/webs.json'),
-                cargarJson('assets/data/categorias.json')
+                cargarJson(websSrc),
+                cargarJson(categoriasSrc)
             ]);
 
             const filtros = normalizarFiltrosDesdeJson(rawFiltros);

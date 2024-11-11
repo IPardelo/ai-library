@@ -8,6 +8,14 @@ This project was created to give everyone easy access to free artificial intelli
 ## How to use "The AI Library"
 Choose the category to filter the tool you need and choose the one that best suits your needs.
 
+## Changelog
+
+### Versión 2.0
+Other tools not based on AI but which can be useful to everyone are added.
+
+### Versión 1.0
+Static website with only AI tool content.
+
 ## Contributing
 To contribute to the project send a pull-request and wait for approval.
 

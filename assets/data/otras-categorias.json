@@ -1,0 +1,32 @@
+[
+  {
+    "categoria": {
+      "id": "imagen",
+      "nombre": "Imagen"
+    }
+  },
+  {
+    "categoria": {
+      "id": "diseno",
+      "nombre": "Diseño"
+    }
+  },
+  {
+    "categoria": {
+      "id": "red",
+      "nombre": "Red e Internet"
+    }
+  },
+  {
+    "categoria": {
+      "id": "pdf",
+      "nombre": "PDF"
+    }
+  },
+  {
+    "categoria": {
+      "id": "programacion",
+      "nombre": "Programación"
+    }
+  }
+]

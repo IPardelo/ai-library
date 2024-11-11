@@ -1,0 +1,290 @@
+[
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Remove.bg",
+      "descripcion": "Elimina el fondo de cualquier imagen de forma automática en segundos.",
+      "url": "https://www.remove.bg/es"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Squoosh",
+      "descripcion": "Compresor de imágenes de Google con previsualización lado a lado.",
+      "url": "https://squoosh.app/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "TinyPNG",
+      "descripcion": "Compresión inteligente para PNG, JPG y WebP sin pérdida visible.",
+      "url": "https://tinypng.com/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Pixlr E",
+      "descripcion": "Editor de imágenes estilo Photoshop directamente en el navegador.",
+      "url": "https://pixlr.com/es/e/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "Cleanup.pictures",
+      "descripcion": "Borra objetos, personas o texto de una foto con un simple pincel.",
+      "url": "https://cleanup.pictures/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen",
+      "titulo": "SVGOMG",
+      "descripcion": "Optimiza ficheros SVG y reduce su tamaño sin perder calidad.",
+      "url": "https://jakearchibald.github.io/svgomg/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "imagen diseno",
+      "titulo": "Photopea",
+      "descripcion": "Editor de imágenes online compatible con .psd, gratis y sin instalar nada.",
+      "url": "https://www.photopea.com/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "diseno",
+      "titulo": "Adobe Color",
+      "descripcion": "Rueda de color de Adobe para crear y explorar paletas armónicas y accesibles.",
+      "url": "https://color.adobe.com/es/create/color-wheel"
+    }
+  },
+  {
+    "web": {
+      "tipo": "diseno",
+      "titulo": "Iconify",
+      "descripcion": "Buscador unificado de más de 200 sets de iconos para descargar o copiar SVG.",
+      "url": "https://icon-sets.iconify.design/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "diseno",
+      "titulo": "Visual Paradigm Online",
+      "descripcion": "Editor online de diagramas UML, flujo, mapas mentales y maquetas, sin instalar nada.",
+      "url": "https://online.visual-paradigm.com/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "diseno",
+      "titulo": "Figma",
+      "descripcion": "Diseño de UI/UX colaborativo en el navegador con un free tier muy generoso.",
+      "url": "https://www.figma.com/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "diseno",
+      "titulo": "Canva",
+      "descripcion": "Plantillas y diseño rápido para carteles, redes sociales, presentaciones y vídeos.",
+      "url": "https://www.canva.com/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "diseno",
+      "titulo": "Coolors",
+      "descripcion": "Generador rápido de paletas de color, pulsa espacio para regenerarlas.",
+      "url": "https://coolors.co/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "diseno",
+      "titulo": "unDraw",
+      "descripcion": "Ilustraciones SVG gratuitas y personalizables en color para tus proyectos.",
+      "url": "https://undraw.co/illustrations"
+    }
+  },
+  {
+    "web": {
+      "tipo": "diseno",
+      "titulo": "Excalidraw",
+      "descripcion": "Pizarra y diagramas estilo \"a mano alzada\", colaborativa y open source.",
+      "url": "https://excalidraw.com/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "red",
+      "titulo": "WhatsMyDNS",
+      "descripcion": "Comprueba la propagación de un registro DNS desde servidores de todo el mundo.",
+      "url": "https://www.whatsmydns.net/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "red",
+      "titulo": "Speedtest",
+      "descripcion": "Mide la velocidad de descarga, subida y la latencia de tu conexión a internet.",
+      "url": "https://www.speedtest.net/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "red",
+      "titulo": "Is It Down Right Now",
+      "descripcion": "Comprueba en tiempo real si una web está caída para todos o solo te falla a ti.",
+      "url": "https://www.isitdownrightnow.com/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "red",
+      "titulo": "MXToolBox",
+      "descripcion": "Diagnóstico de DNS, MX, SPF, blacklists y muchas otras pruebas de red.",
+      "url": "https://mxtoolbox.com/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "red",
+      "titulo": "Fast.com",
+      "descripcion": "Test de velocidad ultrasimple hecho por Netflix, sin botones ni anuncios.",
+      "url": "https://fast.com/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "red",
+      "titulo": "SSL Labs",
+      "descripcion": "Analiza la calidad y configuración del certificado HTTPS de un dominio.",
+      "url": "https://www.ssllabs.com/ssltest/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "red",
+      "titulo": "PageSpeed Insights",
+      "descripcion": "Mide el rendimiento real de una web con Lighthouse de Google.",
+      "url": "https://pagespeed.web.dev/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "red",
+      "titulo": "Whois Lookup",
+      "descripcion": "Quién registró un dominio, registrador, fechas y servidores DNS.",
+      "url": "https://www.whois.com/whois/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "pdf",
+      "titulo": "Smallpdf - Unir PDF",
+      "descripcion": "Une varios archivos PDF en uno solo de forma rápida y gratuita desde el navegador.",
+      "url": "https://smallpdf.com/es/unir-pdf"
+    }
+  },
+  {
+    "web": {
+      "tipo": "pdf",
+      "titulo": "iLovePDF - Unir PDF",
+      "descripcion": "Combina varios PDF en un único archivo en el orden que quieras, online y gratis.",
+      "url": "https://www.ilovepdf.com/es/unir_pdf"
+    }
+  },
+  {
+    "web": {
+      "tipo": "pdf",
+      "titulo": "PDF24 Tools",
+      "descripcion": "Más de 30 herramientas PDF (unir, dividir, OCR, comprimir) sin marca de agua.",
+      "url": "https://tools.pdf24.org/es/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "pdf",
+      "titulo": "Sejda PDF",
+      "descripcion": "Editor PDF online completo con límites razonables en el plan gratuito.",
+      "url": "https://www.sejda.com/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "pdf",
+      "titulo": "PDF Candy",
+      "descripcion": "47 herramientas PDF gratuitas: OCR, watermark, proteger, convertir y más.",
+      "url": "https://pdfcandy.com/es/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "pdf",
+      "titulo": "PDFescape",
+      "descripcion": "Editor PDF en el navegador para rellenar formularios, anotar y editar páginas.",
+      "url": "https://www.pdfescape.com/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "pdf",
+      "titulo": "Adobe Acrobat Online",
+      "descripcion": "Herramientas oficiales gratuitas de Adobe para convertir, comprimir y firmar.",
+      "url": "https://www.adobe.com/es/acrobat/online.html"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "regex101",
+      "descripcion": "Probador de regex con explicación token a token y generador de código en varios lenguajes.",
+      "url": "https://regex101.com/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Can I Use",
+      "descripcion": "Compatibilidad de features HTML, CSS, JS y APIs web por navegador y versión.",
+      "url": "https://caniuse.com/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "CyberChef",
+      "descripcion": "Navaja suiza para codificar, decodificar, hashear, cifrar y transformar datos en cadena.",
+      "url": "https://gchq.github.io/CyberChef/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "Crontab Guru",
+      "descripcion": "Editor visual de expresiones cron con explicación en lenguaje humano y próximos disparos.",
+      "url": "https://crontab.guru/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "JWT.io",
+      "descripcion": "Decodifica y verifica tokens JWT al vuelo mostrando header, payload y firma.",
+      "url": "https://jwt.io/"
+    }
+  },
+  {
+    "web": {
+      "tipo": "programacion",
+      "titulo": "DevDocs",
+      "descripcion": "Documentación unificada de cientos de tecnologías, búsqueda rápida y disponible offline.",
+      "url": "https://devdocs.io/"
+    }
+  }
+]

@@ -1,4 +1,55 @@
 /*--------------------------------------------------------------
+# Secondary nav (barra blanca con enlaces de páginas)
+--------------------------------------------------------------*/
+#nav_secondary {
+  background: #fff;
+  border-bottom: 4px solid #000;
+  padding: 12px 0;
+  font-family: 'Public Pixel', sans-serif;
+}
+
+#nav_secondary .nav-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#nav_secondary .nav-links a {
+  display: inline-block;
+  padding: 8px 18px;
+  border: 3px solid #000;
+  background: #fff;
+  color: #000;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 1px;
+  transition: all 0.2s ease;
+}
+
+#nav_secondary .nav-links a:hover {
+  transform: translateY(-3px);
+  box-shadow: 4px 4px 0 #000;
+}
+
+#nav_secondary .nav-links a.active {
+  background: #000;
+  color: #fff;
+}
+
+@media (max-width: 575px) {
+  #nav_secondary .nav-links a {
+    padding: 6px 12px;
+    font-size: 12px;
+  }
+}
+
+/*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
